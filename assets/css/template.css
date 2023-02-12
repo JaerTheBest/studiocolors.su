@@ -2799,7 +2799,6 @@ input[type="submit"] {
 }
 .navbar-default {
   background: #f7f7f7;
-  border: 1px solid #eee;
 }
 .navbar-default img {
   max-width: 100%;
@@ -3312,7 +3311,7 @@ input[type="submit"] {
   margin-top: 0;
 }
 .t3-footer {
-  background: #f7f7f7;
+  background: #303030;
 }
 .t3-footer .module-title {
   font-size: 20px;

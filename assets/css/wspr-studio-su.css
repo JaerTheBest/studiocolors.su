@@ -3,7 +3,7 @@ a{color:#ff0000}
 .navbar-default .navbar-nav a{font-size:18px;}
 .navbar-default .navbar-nav > li > a{padding:10px 10px;line-height:30px;}
 .navbar{min-height:40px;}
-.navbar-default{background:#fff;border-bottom:1px solid #F87F3D;border-top:none;}
+.navbar-default{background:#292929;border-bottom:1px solid #F87F3D;border-top:none;}
 .t3-header{padding-top:5px;padding-bottom:5px;}
 .t3-mainnav .t3-navbar{float:left;}
 #vmCartModule{border:1px solid #F87F3D;border-radius:0;padding: 5px 10px;height: 40px;line-height: 30px;width:auto;float:right;}
